@@ -1,1 +1,3 @@
 primeiro colocamos os integrantes como colaboradores e vamos commitar
+
+depois commitamos a segunda linha e vamos pro arquivo read.me
